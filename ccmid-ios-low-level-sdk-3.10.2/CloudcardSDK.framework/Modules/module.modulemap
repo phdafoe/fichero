@@ -1,0 +1,6 @@
+framework module CloudcardSDK {
+  umbrella header "CloudcardSDK.h"
+
+  export *
+  module * { export * }
+}
